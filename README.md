@@ -18,6 +18,7 @@ Read the documentation at [Keras.io](http://keras.io).
 
 Keras is compatible with: __Python 2.7-3.5__.
 
+This version is folked by guilk
 
 ------------------
 
